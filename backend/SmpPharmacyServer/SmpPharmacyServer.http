@@ -1,0 +1,6 @@
+@SmpPharmacyServer_HostAddress = http://localhost:5193
+
+GET {{SmpPharmacyServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
